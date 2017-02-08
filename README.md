@@ -4,7 +4,15 @@ I will update this documentation when I am not so tired.
 
 
 ## Example
+Express-like backend used. Can be places in any system.
 
+### API Call
+api/renderer/:type/:object/?params=value
+
+**Example:**
+api/renderer/item/chemlight/?colors=d000d0
+
+### Setup
 ```
 // Import the generator.
 var SpriteGen = require(path.join(process.cwd(), '/dist/phreaknation.generator.sprite.js'));
@@ -13,7 +21,7 @@ var spritegen = new SpriteGen(path.join(process.cwd(), '/src/js/Sprite Generator
 ...
 ```
 ### RESTful API Post
-Express-like backend used. Can be places in any system
+
 ```
 // We pass in the params and query from the request object
 var opts = spritegen.getOptions(req.params, req.query);
