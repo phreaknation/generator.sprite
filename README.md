@@ -3,6 +3,12 @@
 I will update this documentation when I am not so tired.
 
 
+## Require modules
+These modules are required to be installed either globally or locally with node.
+ * [Lodash](https://www.npmjs.com/package/lodash)
+ * [Canvas](https://www.npmjs.com/package/canvas)
+ * [Crypto](https://www.npmjs.com/package/crypto)
+
 ## Example
 Express-like backend used. Can be places in any system.
 
