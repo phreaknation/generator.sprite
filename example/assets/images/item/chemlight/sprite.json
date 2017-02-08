@@ -1,0 +1,43 @@
+{
+  "details": {
+    "isAnimated": false,
+    "height": 40,
+    "width": 8
+  },
+  "spritesheet": {
+    "color": {
+      "x": 0,
+      "y": 0,
+      "height": 40,
+      "width": 8
+    },
+    "outline": {
+      "x": 8,
+      "y": 0,
+      "height": 40,
+      "width": 7
+    }
+  },
+  "layers": [
+    {
+      "name": "color",
+      "notes": "",
+      "src": "spritesheet.png",
+      "options": [
+        {
+          "type": "color"
+        }
+      ]
+    },
+    {
+      "name": "outline",
+      "notes": "",
+      "src": "spritesheet.png",
+      "options": [
+        {
+          "type": "base"
+        }
+      ]
+    }
+  ]
+}
