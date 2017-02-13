@@ -17,27 +17,5 @@
       "height": 40,
       "width": 7
     }
-  },
-  "layers": [
-    {
-      "name": "color",
-      "notes": "",
-      "src": "spritesheet.png",
-      "options": [
-        {
-          "type": "color"
-        }
-      ]
-    },
-    {
-      "name": "outline",
-      "notes": "",
-      "src": "spritesheet.png",
-      "options": [
-        {
-          "type": "base"
-        }
-      ]
-    }
-  ]
+  }
 }
