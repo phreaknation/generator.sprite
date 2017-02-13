@@ -1,7 +1,11 @@
-# generator.sprite
+# Sprite Generator
+By Joel Dies
 
 I will update this documentation when I am not so tired.
 
+**This is not 100% documented but is on its way to being 100% documented.**
+
+Help support these efforts by becoming a [Patreon](https://www.patreon.com/user?u=4928922)
 
 ## Require modules
 These modules are required to be installed either globally or locally with node.
