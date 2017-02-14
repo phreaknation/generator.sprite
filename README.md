@@ -7,6 +7,8 @@ I will update this documentation when I am not so tired.
 
 Help support these efforts by becoming a [Patreon](https://www.patreon.com/user?u=4928922)
 
+If you wish to use this plugin in a commercial product, or get the full source [you may do so this way](https://gum.co/eivJX).
+
 ## Require modules
 These modules are required to be installed either globally or locally with node.
  * [Lodash](https://www.npmjs.com/package/lodash)
