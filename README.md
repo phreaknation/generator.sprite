@@ -90,7 +90,7 @@ For each layer param you will need at least 3 parts. The name, a filter, and a v
 
 ?layer=filter::value1::value2
 
-?layer2=filter1::value1&layer2=filter1::value2|filter2::value3
+?layer1=filter1::value1&layer2=filter1::value2|filter2::value3
 ```
 
 ## Custom Filters
